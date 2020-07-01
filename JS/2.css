@@ -1,0 +1,13 @@
+.mid{
+    width: 800px;
+    margin: 0 auto;
+    text-align: justify;
+}
+
+.menu ul {
+    display: flex;
+}
+.header {
+    background: #00b3ee;
+    padding: 20px 0;
+}
